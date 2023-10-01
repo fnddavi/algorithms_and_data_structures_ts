@@ -1,0 +1,12 @@
+{
+  "name": "algorithms_and_data_structures_ts",
+  "version": "1.0.0",
+  "description": "<h1> Algoritmos e estruturas de dados utilizando  TypeScript</h1>\r <h2> Autor: Fabrício Galende Marques de Carvalho, DSc </h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
